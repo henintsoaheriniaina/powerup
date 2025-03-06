@@ -1,5 +1,7 @@
 # PowerUp ⚡ - Application E-Commerce
 
+
+
 ## Description
 PowerUp est une application e-commerce mobile construite avec **React Native** et **TypeScript**, permettant aux utilisateurs d'acheter du matériel informatique. L'application inclut une authentification sécurisée et une gestion fluide des produits.
 
@@ -36,10 +38,10 @@ PowerUp est une application e-commerce mobile construite avec **React Native** e
 
 ## Roadmap
 - [x] Configuration de l'environnement
-- [ ] Implémentation de l'authentification
+- [x] Implémentation de l'authentification
 - [x] Affichage des produits avec pagination
-- [ ] Gestion du panier et des commandes
-- [x] Intégration du paiement
+- [x] Gestion du panier et des commandes
+- [ ] Intégration du paiement
 - [x] Déploiement sur les stores
 
 ---
