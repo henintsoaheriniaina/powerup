@@ -36,15 +36,5 @@ PowerUp est une application e-commerce mobile construite avec **React Native** e
    ```
 
 
-## Roadmap
-- [x] Configuration de l'environnement
-- [x] Implémentation de l'authentification
-- [x] Affichage des produits avec pagination
-- [x] Gestion du panier et des commandes
-- [ ] Intégration du paiement
-- [x] Déploiement sur les stores
-
----
-
 ### Contact
 Si tu as des questions ou suggestions, n'hésite pas à me contacter par email : belouhtsoa@gmail.com
